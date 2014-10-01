@@ -46,4 +46,5 @@ shark = Shark.new
 shark.eat
 
 
+
 Log.log
